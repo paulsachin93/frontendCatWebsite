@@ -38,7 +38,7 @@ figure {
 }
 
 #fixed {
-    background-image: url('img/meow1.jpg');
+    background-image: url('meow1.jpg');
     position: fixed;
     display: block;
     top: 0;
